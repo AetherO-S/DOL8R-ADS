@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About</title>
+</head>
+
+<body>
+  <h1>About This Website</h1>
+
+  <p>
+    This website was created to provide clear, practical information about
+    improving computer performance on modern Windows systems.
+  </p>
+
+  <p>
+    The content focuses on real-world optimization techniques, system
+    maintenance, and general computing knowledge intended for everyday users.
+  </p>
+
+  <p>
+    All articles are written to be informational and educational, without
+    requiring advanced technical expertise.
+  </p>
+</body>
+</html>
